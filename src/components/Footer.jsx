@@ -20,7 +20,7 @@ const Footer = () => {
                     <div className="phone">
                         <h4>
                             <FaPhone size={20} style={{ color: 'white', marginRight: '20px' }} />
-                            <a href="tel:+91 1457823921" style={{ textDecoration: 'none', color: 'white' }}>7710740056</a>
+                            <a href="tel:+917710740056" style={{ textDecoration: 'none', color: 'white' }}>7710740056</a>
                         </h4>
                     </div>
                     <div className="phone">
